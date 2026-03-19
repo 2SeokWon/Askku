@@ -175,6 +175,6 @@ npm run dev
 
 | 역할 | 담당 |
 |------|------|
-| Frontend | - |
-| Backend | - |
-| AI / RAG | - |
+| Frontend | 이동환, 이석원 |
+| Backend | 강철석, 김태완 |
+| AI / RAG | 김건, 오은서 |
